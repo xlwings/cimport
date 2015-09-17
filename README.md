@@ -3,11 +3,13 @@ Build and import Python C modules on the fly
 
 ## Installation
 
+```
 pip install git+https://github.com/ZoomerAnalytics/cimport
+```
 
 ## Usage
 
-```
+```python
 import cimport
 cimport.install()
 
